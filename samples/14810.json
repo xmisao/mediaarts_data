@@ -1,0 +1,386 @@
+{
+  "anime_series": {
+    "class": "MediaartsScraper::Data::AnimeSeries",
+    "anime_series_id": "ANS001019800",
+    "distribution_format": "TV",
+    "anime_work_id": "ANT001019800",
+    "title": "魔法少女まどか★マギカ",
+    "title_kana": "マホウショウジョマドカ　マギカ",
+    "date_of_release": "2011/01/07",
+    "date_of_end": "2011/04/22",
+    "time_slot_or_duration": "-",
+    "number_of_broadcasts": "-",
+    "number_of_episodes": "-",
+    "distributor": "-",
+    "broadcast_period": "-",
+    "production_company": "[アニメーション制作]シャフト　／　[製作]Madika Partners　／　[製作]アニプレックス　／　[製作]芳文社　／　[製作]博報堂DYメディアパートナーズ　／　[製作]ニトロプラス　／　[製作]ムービック　／　[製作]シャフト　／　[製作]毎日放送",
+    "original_source": "-",
+    "director": "-",
+    "credits": "[原作]Magica Quartet　／　[脚本]虚淵玄 （ニトロプラス）　／　[監督]新房昭之　／　[シリーズディレクター]宮本幸裕　／　[キャラクター原案]蒼樹うめ　／　[キャラクターデザイン]岸田隆宏　／　[美術監督]稲葉邦彦（1～6、12話）　／　[美術監督]金子雄司（1～6、12話）　／　[美術監督]内藤健（7～12話）　／　[美術設定]大原盛仁　／　[異空間設計]劇団イヌカレー　／　[音楽]梶浦由記",
+    "cast": "【鹿目まどか】悠木 碧　／　【暁美ほむら】斎藤千和　／　【美樹さやか】喜多村英梨　／　【巴 マミ】水橋かおり　／　【佐倉杏子】野中 藍　／　【キュゥべえ】加藤英美里　／　【上條恭介】吉田聖子　／　【志筑仁美】新谷良子　／　【鹿目詢子】後藤邑子　／　【鹿目知久】岩永哲哉　／　【鹿目タツヤ】水橋かおり　／　【早乙女和子】岩男潤子　／　【中 沢】松岡禎丞　／　【魔法少女】大久保瑠美",
+    "theme_songs": "OP・ED2 「コネクト」　ClariS　／　ED1、IS1 「Magia」　Kalafina　／　IS2 「コネクト」　ゲームインスト　作　曲　渡辺　翔",
+    "episode_titles": "-",
+    "notes": "-",
+    "character_design": "-",
+    "music_or_sound_effects": "-",
+    "format_of_original_source": "-",
+    "eirin_no": "-",
+    "rating_by_the_eirin": "-",
+    "copyright": "-",
+    "english_title_in_japan": "-",
+    "english_title_overseas": "-",
+    "hepburn_romanization_of_original_title": "-",
+    "romanization_of_original_title": "-",
+    "alternative_titles": "-",
+    "related_works": "-",
+    "tag": "-",
+    "carrier_type_of_original_material": "-",
+    "information_sources": "アニメアワード投票用データ　／　年間パーフェクト・データ（AWD+APDY）",
+    "episodes": [
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "1",
+        "episode_title": "第1話　夢の中で会った、ような・・・・・",
+        "date_of_release": "2011/01/07",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "2",
+        "episode_title": "第2話　それはとっても 嬉しいなって",
+        "date_of_release": "2011/01/14",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "3",
+        "episode_title": "第3話　もう何も恐くない",
+        "date_of_release": "2011/01/21",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "4",
+        "episode_title": "第4話　奇跡も、魔法も、あるんだよ",
+        "date_of_release": "2011/01/28",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "5",
+        "episode_title": "第5話　 後悔なんて、あるわけない",
+        "date_of_release": "2011/02/04",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "6",
+        "episode_title": "第6話　こんなの絶対おかしいよ",
+        "date_of_release": "2011/02/11",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "7",
+        "episode_title": "第7話　本当の気持ちと向き合えますか?",
+        "date_of_release": "2011/02/18",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "8",
+        "episode_title": "第8話　あたしって、ほんとバカ",
+        "date_of_release": "2011/02/25",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "9",
+        "episode_title": "第9話　そんなの、あたしが許さない",
+        "date_of_release": "2011/03/04",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "10",
+        "episode_title": "第10話　もう誰にも頼らない",
+        "date_of_release": "2011/03/11",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "11",
+        "episode_title": "第11話　 最後に残った道しるべ",
+        "date_of_release": "2011/04/22",
+        "notes": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesEpisode",
+        "episode_no": "12",
+        "episode_title": "最終話　 わたしの、最高の友達",
+        "date_of_release": "2011/04/22",
+        "notes": "-"
+      }
+    ],
+    "materials": [
+
+    ],
+    "packages": [
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesPackage",
+        "title": "劇場版魔法少女まどか★マギカ",
+        "volumes": "",
+        "other_editions": "完全生産限定版.　",
+        "publication_format": "Blu-ray Disc +",
+        "date_of_publication": "2013/07",
+        "access_to_this_material": "国立国会図書館",
+        "ans_id": 14810,
+        "anp_id": 1638
+      }
+    ],
+    "related_series": [
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesRelatedSeries",
+        "title": "劇場版 魔法少女 まどか★マギカ [前編] 始まりの物語",
+        "distribution_format": "劇場",
+        "director": "-",
+        "production_company": "[アニメーション制作]シャフト　／　[製作]Madoka Movie Project　／　[製作]アニプレックス　／　[製作]芳文社　／　[製作]博報堂DYメディアパートナーズ　／　[製作]ニトロプラス　／　[製作]ムービック　／　[製作]MBS　／　[製作]シャフト",
+        "date_of_release": "2012/10/06",
+        "date_of_end": "-",
+        "number_of_broadcasts": "-",
+        "number_of_episodes": "-",
+        "ans_id": 15783
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesRelatedSeries",
+        "title": "劇場版 魔法少女 まどか★マギカ [後編] 永遠の物語",
+        "distribution_format": "劇場",
+        "director": "-",
+        "production_company": "[アニメーション制作]シャフト　／　[製作]Madoka Movie Project　／　[製作]アニプレックス　／　[製作]芳文社　／　[製作]博報堂DYメディアパートナーズ　／　[製作]ニトロプラス　／　[製作]ムービック　／　[製作]MBS　／　[製作]シャフト",
+        "date_of_release": "2012/10/13",
+        "date_of_end": "-",
+        "number_of_broadcasts": "-",
+        "number_of_episodes": "-",
+        "ans_id": 15830
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesRelatedSeries",
+        "title": "劇場版 魔法少女 まどか★マギカ [新編] 叛逆の物語",
+        "distribution_format": "劇場",
+        "director": "-",
+        "production_company": "-",
+        "date_of_release": "2013/10/26",
+        "date_of_end": "-",
+        "number_of_broadcasts": "-",
+        "number_of_episodes": "-",
+        "ans_id": 16103
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesRelatedSeries",
+        "title": "[MADOGATARi展] Puella Magi Madoka Magica Concept movie",
+        "distribution_format": "劇場",
+        "director": "[演出]宮本幸裕",
+        "production_company": "-",
+        "date_of_release": "2015/11/27",
+        "date_of_end": "-",
+        "number_of_broadcasts": "-",
+        "number_of_episodes": "-",
+        "ans_id": 20632
+      }
+    ],
+    "manga_work": [
+      {
+        "class": "MediaartsScraper::Data::AnimeSeriesMangaWork",
+        "title": "魔法少女まどか・マギカ",
+        "author": "[原作]Magica Quartet",
+        "mmt_id": 131817
+      }
+    ]
+  },
+  "packages": [
+    {
+      "class": "MediaartsScraper::Data::AnimePackages",
+      "package_id": "ANP000001638",
+      "title": "劇場版魔法少女まどか★マギカ",
+      "title_kana": "ゲキジョウバン マホウ ショウジョ マドカ マギカ",
+      "other_editions": "完全生産限定版.　",
+      "volumes": "-",
+      "content_description": "DISC1〈前編〉始まりの物語.　 DISC2〈後編〉永遠の物語.",
+      "number_of_discs": "ビデオディスク 2枚 (241分)",
+      "series_title": "-",
+      "series_no": "-",
+      "publisher_etc": "アニプレックス",
+      "credits": "原作:Magica Quartet 総監督:新房昭之 脚本:虚淵玄 キャラクター原案:蒼樹うめ 監督:宮本幸裕 キャラクターデザイン:岸田隆宏 キャラクターデザイン・総作画監督:谷口淳一郎 総作画監督:山村洋貴 副監督:寺尾洋之 アクションディレクター:阿部望/神谷智大 異空間設計:劇団イヌカレー 美術監督:内藤健 美術設定:大原盛仁 色彩設計:日比野仁/滝沢いづみ ビジュアルエフェクト:酒井基 撮影監督:江藤慎一郎 編集:松原理恵 音響監督:鶴岡陽太 音響制作:楽音舎 音楽:梶浦由記 アニメーション制作:シャフト 配給:アニプレックス 声の出演:悠木碧/斎藤千和/喜多村英梨/水橋かおり/野中藍/加藤英美里.",
+      "publication_format": "Blu-ray Disc +",
+      "notes": "限定盤",
+      "size": "-",
+      "appendices": "CD 1枚　／　付属資料: CD 1枚 : 劇場版オリジナルサウンドトラック (音楽 = 梶浦由記)",
+      "content_specifications": "カラー, ステレオ, ワイド.　／　音声: DTS HD, DTS HD/5.1, オーディオコメンタリー(DTS)　／　字幕: 日, 英, 中(繁体字), 韓, 仏, スペイン.",
+      "sales_no": "ANZX-3131　／　ANZX-3132　／　ANZX-3133",
+      "jan": "-",
+      "price": "11550円 (税込)",
+      "date_of_publication": "2013/07",
+      "language": "日本語",
+      "ratings": "-",
+      "place_of_publication": "東京",
+      "national_bib_no_jpno": "22297590",
+      "package_description": "-",
+      "tag": "-",
+      "physical_collection": {
+        "class": "MediaartsScraper::Data::AnimePackagesPhysicalCollection",
+        "package_ownership_information_id": "C00101ANP000001638",
+        "name_of_institution": "国立国会図書館",
+        "registration_no": "024381394(Go to NDL-OPAC)",
+        "notes_from_istitution": "YL331-L799"
+      }
+    }
+  ],
+  "episodes": [
+    [
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "1",
+        "episode_title": "第1話　夢の中で会った、ような・・・・・",
+        "date_of_release": "2011/01/07",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "2",
+        "episode_title": "第2話　それはとっても 嬉しいなって",
+        "date_of_release": "2011/01/14",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "3",
+        "episode_title": "第3話　もう何も恐くない",
+        "date_of_release": "2011/01/21",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "4",
+        "episode_title": "第4話　奇跡も、魔法も、あるんだよ",
+        "date_of_release": "2011/01/28",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "5",
+        "episode_title": "第5話　 後悔なんて、あるわけない",
+        "date_of_release": "2011/02/04",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "6",
+        "episode_title": "第6話　こんなの絶対おかしいよ",
+        "date_of_release": "2011/02/11",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "7",
+        "episode_title": "第7話　本当の気持ちと向き合えますか?",
+        "date_of_release": "2011/02/18",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "8",
+        "episode_title": "第8話　あたしって、ほんとバカ",
+        "date_of_release": "2011/02/25",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "9",
+        "episode_title": "第9話　そんなの、あたしが許さない",
+        "date_of_release": "2011/03/04",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "10",
+        "episode_title": "第10話　もう誰にも頼らない",
+        "date_of_release": "2011/03/11",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "11",
+        "episode_title": "第11話　 最後に残った道しるべ",
+        "date_of_release": "2011/04/22",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      },
+      {
+        "class": "MediaartsScraper::Data::AnimeEpisode",
+        "episode_no": "12",
+        "episode_title": "最終話　 わたしの、最高の友達",
+        "date_of_release": "2011/04/22",
+        "credits": "-",
+        "cast": "-",
+        "character": "-",
+        "main_mecha": "-",
+        "notes": "-",
+        "information_sources": "-"
+      }
+    ]
+  ]
+}

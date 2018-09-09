@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mediaarts_scraper (0.0.0)
+      nokogiri (>= 1.8.4)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
+    parallel (1.12.1)
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mediaarts_scraper
+  parallel
+  rake
+
+BUNDLED WITH
+   1.16.1
