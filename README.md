@@ -13,6 +13,24 @@ bundle install
 bundle exec rake -D
 ```
 
+## Release procedure
+
+```
+git clone git@github.com:xmisao/mediaarts_data.git
+cd mediaarts_data
+bundle install
+bundle exec rake scrape
+bundle exec rake sample
+git add -u
+RELEASE_DATE=`date +%Y%m%d`
+git commit -m "Release $RELEASE_DATE"
+git tag -a $RELEASE_DATE -m $RELEASE_DATE
+bundle exec rake package
+git push origin master
+git push origin $RELEASE_DATE
+# Draft a new release and upload packages/mediaarts_data_$RELEASE_DATE.tgz with GitHub Website
+```
+
 ## データについて
 
 出典: 文化庁「メディア芸術データベース（開発版）」 https://mediaarts-db.bunka.go.jp/
